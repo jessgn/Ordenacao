@@ -1,3 +1,4 @@
-#Análise e Desenvolvimento de Sistemas- UFPR
-#LPOO I - Exercícios
-Exercícios desenvolvidos em sala, na matéria de Estrutura de Dados.
+# Análise e Desenvolvimento de Sistemas- UFPR
+# Estutura de Dados - Exercícios
+
+Exercícios desenvolvidos em sala, na matéria de Estutura de Dados.
